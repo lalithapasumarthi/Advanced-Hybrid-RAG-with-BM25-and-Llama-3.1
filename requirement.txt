@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+qdrant-client
+groq
+sentence-transformers
+fastembed
+torch
+transformers
+langchain
+rank-bm25
+scikit-learn
+numpy
