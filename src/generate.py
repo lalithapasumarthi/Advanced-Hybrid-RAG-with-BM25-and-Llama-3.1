@@ -30,7 +30,7 @@ class generate:
 
 if __name__ == '__main__':
     search = generate()
-    query = "Can you explain the objective of sustainable development?"
+    query = ""
     context=" "
     results = search.llm_query(query,context)
     print(results)
