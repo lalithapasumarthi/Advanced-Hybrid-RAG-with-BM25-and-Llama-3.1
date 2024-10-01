@@ -1,5 +1,5 @@
 # Advanced Hybrid RAG with BM25 and Llama 3.1
-
+![screenshot](img/screenshot.png)
 This project is an advanced hybrid Retrieval-Augmented Generation (RAG) system that combines the power of BM25 (for sparse vector search) and Llama 3.1 model (for natural language generation). The system is built using Qdrant, a vector database, for indexing and retrieval, and includes dense embeddings using `SentenceTransformers` to enable a hybrid retrieval system.
 ## Table of Contents
 1. [Key Components](#key-components)
